@@ -2,7 +2,6 @@
    "version": "9.1.0",
    "filename": "lightservice.min.js",
    "name": "lightservice",
-   "homepage": "https://github.com/contactsamie/LightService",
    "keywords": [
        "functional",
        "service",
